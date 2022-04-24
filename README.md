@@ -40,6 +40,7 @@ The county with the largest voter turnout was:
 Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 Challenge Summary 
+
 For this analysis, I'll be assisting a Colorado board of Election employee Tom in an election audit of the tabulated results for U.S. 
 Congressional precinct in CO. I'll be Writing scripts in Python to determine the
 total number of votes cast, the total number of votes for each candidate, percentage of votes 
